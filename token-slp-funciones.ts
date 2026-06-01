@@ -4,13 +4,7 @@
  * ║   Basado en: https://solana.com/es/docs/tokens/basics           ║
  * ║   Metadata:  https://solana.com/docs/tokens/extensions/metadata ║
  * ╚══════════════════════════════════════════════════════════════════╝
- *
- * Instalación:
- *   npm install @solana/web3.js @solana/spl-token @solana/spl-token-metadata
- *   npm install -D typescript ts-node @types/node
- *
- * Ejecución:
- *   npx ts-node spl-token-basics.ts
+ * 
  */
 
 import {
